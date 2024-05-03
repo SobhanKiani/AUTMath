@@ -20,8 +20,7 @@ public class AUTMath {
      * @return the result of subtracting the second parameter from the first.
      */
     public static int subtract(int num1, int num2) {
-        int result = num1 - num2;
-        return Math.abs(result);
+        return num1 - num2;
     }
 
     /**
